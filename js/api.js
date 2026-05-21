@@ -1,5 +1,5 @@
-
 const BASE_URL = "https://cors-anywhere.herokuapp.com/http://185.72.144.247:7757";
+
 let allFilms = [];
 let top25Films = [];
 let allActors = [];
